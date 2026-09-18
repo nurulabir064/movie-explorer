@@ -29,8 +29,7 @@ npm run dev
 ```
 
 ## Live Demo
-
-Live deployment link will be added here.
+https://movie-explorer-silk-iota.vercel.app/ 
 
 ## GitHub Repository
-GitHub repository link will be added here.
+ https://github.com/nurulabir064/movie-explorer
